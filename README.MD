@@ -36,7 +36,7 @@ To run the application locally, follow these steps:
 3. Run the FastAPI server:
 
     ```bash
-    python app/main.py
+    python main.py
     ```
 
 ## API Documentation
@@ -44,3 +44,4 @@ Once the server is running, you can access the API documentation using FastAPI's
 http://127.0.0.1:8000/docs
 
 This interface allows you to test the API endpoints interactively.
+
