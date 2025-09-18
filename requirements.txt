@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+xgboost
+numpy
+sentence_transformers
+sklearn
+gdown
+pickle
